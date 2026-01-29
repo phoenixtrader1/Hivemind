@@ -1,5 +1,5 @@
-}
-"name": "hivemind-backend",
+{
+  "name": "hivemind-backend",
   "version": "1.0.0",
   "description": "HiveMind API with PostgreSQL",
   "main": "server.js",
